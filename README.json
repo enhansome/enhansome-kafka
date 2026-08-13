@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T14:57:38Z",
+            "last_commit": "2026-08-13T13:20:13Z",
             "owner": "strimzi",
             "repo": "strimzi-kafka-operator",
-            "stars": 5903
+            "stars": 5904
           }
         },
         {
@@ -103,7 +103,7 @@
             "last_commit": "2026-08-12T04:11:55Z",
             "owner": "tchiotludo",
             "repo": "akhq",
-            "stars": 3844
+            "stars": 3843
           }
         },
         {
@@ -226,7 +226,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-07T13:05:15Z",
+            "last_commit": "2026-08-13T11:39:20Z",
             "owner": "allegro",
             "repo": "hermes",
             "stars": 864
@@ -478,7 +478,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T15:32:01Z",
+            "last_commit": "2026-08-13T09:45:47Z",
             "owner": "SystemCraftsman",
             "repo": "strimzi-kafka-cli",
             "stars": 91
@@ -571,7 +571,7 @@
             "last_commit": "2026-08-11T14:37:42Z",
             "owner": "obsidiandynamics",
             "repo": "kafdrop",
-            "stars": 6153
+            "stars": 6154
           }
         },
         {
@@ -582,7 +582,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T18:38:59Z",
+            "last_commit": "2026-08-13T12:46:00Z",
             "owner": "redpanda-data",
             "repo": "console",
             "stars": 4317
@@ -992,10 +992,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T04:12:10Z",
+            "last_commit": "2026-08-13T07:58:03Z",
             "owner": "aklivity",
             "repo": "zilla",
-            "stars": 1043
+            "stars": 1046
           }
         },
         {
@@ -1006,7 +1006,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-11T10:07:49Z",
+            "last_commit": "2026-08-13T12:58:44Z",
             "owner": "strimzi",
             "repo": "strimzi-kafka-bridge",
             "stars": 338
@@ -1020,7 +1020,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T03:40:46Z",
+            "last_commit": "2026-08-13T13:35:01Z",
             "owner": "confluentinc",
             "repo": "kafka-rest",
             "stars": 162
@@ -1045,7 +1045,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T03:34:34Z",
+            "last_commit": "2026-08-13T13:33:21Z",
             "owner": "confluentinc",
             "repo": "schema-registry",
             "stars": 2459
@@ -1183,7 +1183,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T01:47:05Z",
+            "last_commit": "2026-08-13T11:30:36Z",
             "owner": "apache",
             "repo": "pulsar",
             "stars": 15310
@@ -1269,7 +1269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:19:13.673Z",
+    "last_updated": "2026-08-13T13:36:10.851Z",
     "original_repository": "semantalytics/awesome-kafka",
     "original_repository_sha": "fe81d0ca4223170c442753b5cf5a32751b96e662",
     "enhanced_repository": "enhansome/enhansome-kafka",
