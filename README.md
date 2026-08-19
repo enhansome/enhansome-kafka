@@ -117,7 +117,7 @@
 
 ### REST Proxy
 
-* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,573 | 🐛 222 | 🌐 Java | 📅 2026-08-19 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,572 | 🐛 222 | 🌐 Java | 📅 2026-08-19 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 * [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ⭐ 338 | 🐛 17 | 🌐 Java | 📅 2026-08-14 - Strimzi Kafka Bridge (AMQP & HTTP).
 * [kafka-rest](https://github.com/confluentinc/kafka-rest) ⭐ 162 | 🐛 275 | 🌐 Java | 📅 2026-08-19 - Confluent REST Proxy.
 
@@ -140,7 +140,7 @@
 
 ### Kafkaesque
 
-* [Pulsar](https://github.com/apache/incubator-pulsar) ⭐ 15,310 | 🐛 1,725 | 🌐 Java | 📅 2026-08-19
+* [Pulsar](https://github.com/apache/incubator-pulsar) ⭐ 15,310 | 🐛 1,726 | 🌐 Java | 📅 2026-08-19
 * [faust](https://github.com/robinhood/faust) ⭐ 6,823 | 🐛 279 | 🌐 Python | 📅 2024-07-27 - Python Stream Processing.
 * [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) ⭐ 3,795 | 🐛 40 | 🌐 Java | 📅 2026-08-19
 * [Heron](https://github.com/apache/incubator-heron) ⚠️ Archived

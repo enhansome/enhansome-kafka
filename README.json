@@ -1065,7 +1065,7 @@
                 "last_commit": "2026-08-19T04:43:27Z",
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1573
+                "stars": 1572
               }
             },
             {
@@ -1092,7 +1092,7 @@
                 "archived": false,
                 "id": 26873147,
                 "language": "Java",
-                "last_commit": "2026-08-19T12:15:47Z",
+                "last_commit": "2026-08-19T12:46:06Z",
                 "owner": "confluentinc",
                 "repo": "kafka-rest",
                 "stars": 162
@@ -1129,7 +1129,7 @@
                 "archived": false,
                 "id": 197192301,
                 "language": "Java",
-                "last_commit": "2026-08-19T11:49:20Z",
+                "last_commit": "2026-08-19T12:49:18Z",
                 "owner": "Apicurio",
                 "repo": "apicurio-registry",
                 "stars": 916
@@ -1354,7 +1354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:18.624Z",
+    "last_updated": "2026-08-19T13:01:34.521Z",
     "original_repository": "semantalytics/awesome-kafka",
     "original_repository_id": 135755010,
     "original_repository_sha": "fe81d0ca4223170c442753b5cf5a32751b96e662",
