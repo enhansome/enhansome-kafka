@@ -41,7 +41,7 @@
 * [kafkahq](https://github.com/tchiotludo/kafkahq) ⭐ 3,848 | 🐛 284 | 🌐 Java | 📅 2026-08-24 - Kafka GUI for topics, topics data, consumers group, schema registry, connect and more.
 * [kafka-eagle](https://github.com/smartloli/kafka-eagle) ⭐ 3,179 | 🐛 224 | 🌐 Java | 📅 2025-12-18 - Used to monitor the consumer status of Kafka clusters, as well as offsets, metadata and other information.
 * [cruise-control](https://github.com/linkedin/cruise-control) ⭐ 3,042 | 🐛 288 | 🌐 Java | 📅 2026-08-17 - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster.
-* [spring-kafka](https://github.com/spring-projects/spring-kafka) ⭐ 2,495 | 🐛 38 | 🌐 Java | 📅 2026-08-22
+* [spring-kafka](https://github.com/spring-projects/spring-kafka) ⭐ 2,495 | 🐛 39 | 🌐 Java | 📅 2026-08-22
 * [kafka-monitor](https://github.com/linkedin/kafka-monitor) ⭐ 2,065 | 🐛 33 | 🌐 Java | 📅 2025-03-09
 * [secor](https://github.com/pinterest/secor) ⭐ 1,856 | 🐛 269 | 🌐 Java | 📅 2026-03-10 - Secor is a service implementing Kafka log persistence.
 * [reactive-kafka](https://github.com/akka/reactive-kafka) ⭐ 1,422 | 🐛 113 | 🌐 Scala | 📅 2026-08-18 - Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.
@@ -101,7 +101,7 @@
 
 * [Maxwell](https://github.com/zendesk/maxwell) ⭐ 4,256 | 🐛 266 | 🌐 Java | 📅 2026-08-13
 * [kafka-connect-file-pulse](https://github.com/streamthoughts/kafka-connect-file-pulse) ⭐ 350 | 🐛 49 | 🌐 Java | 📅 2026-06-26 - A polyvalent, scalable and reliable, Kafka Connector that makes it easy to parse, transform and stream any file, in any format, into Apache Kafka.
-* [snowflake-kafka-connector](https://github.com/snowflakedb/snowflake-kafka-connector) ⭐ 175 | 🐛 50 | 🌐 Java | 📅 2026-08-21
+* [snowflake-kafka-connector](https://github.com/snowflakedb/snowflake-kafka-connector) ⭐ 176 | 🐛 50 | 🌐 Java | 📅 2026-08-21
 * [kafka-connect-transform-common](https://github.com/jcustenborder/kafka-connect-transform-common) ⭐ 174 | 🐛 25 | 🌐 Java | 📅 2026-07-08 - Common Transforms for Kafka Connect.
 * [kafka-connect-mq-source](https://github.com/ibm-messaging/kafka-connect-mq-source) ⭐ 108 | 🐛 13 | 🌐 Java | 📅 2026-07-22
 * [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter) ⚠️ Archived - Protobuf converter plugin for Kafka Connect.
@@ -118,7 +118,7 @@
 ### REST Proxy
 
 * [Zilla](https://github.com/aklivity/zilla) ⭐ 1,710 | 🐛 219 | 🌐 Java | 📅 2026-08-24 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
-* [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ⭐ 338 | 🐛 14 | 🌐 Java | 📅 2026-08-23 - Strimzi Kafka Bridge (AMQP & HTTP).
+* [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ⭐ 338 | 🐛 15 | 🌐 Java | 📅 2026-08-23 - Strimzi Kafka Bridge (AMQP & HTTP).
 * [kafka-rest](https://github.com/confluentinc/kafka-rest) ⭐ 162 | 🐛 275 | 🌐 Java | 📅 2026-08-24 - Confluent REST Proxy.
 
 ### KSQL
@@ -126,7 +126,7 @@
 ### Schema Registry
 
 * [schema-registry](https://github.com/confluentinc/schema-registry) ⭐ 2,462 | 🐛 397 | 🌐 Java | 📅 2026-08-24 - Confluent Schema registry for Kafka.
-* [apicurio-registry](https://github.com/Apicurio/apicurio-registry) ⭐ 918 | 🐛 646 | 🌐 Java | 📅 2026-08-24 - Apicurio API/schema registry (includes UI).
+* [apicurio-registry](https://github.com/Apicurio/apicurio-registry) ⭐ 918 | 🐛 647 | 🌐 Java | 📅 2026-08-24 - Apicurio API/schema registry (includes UI).
 * [ksql-jdbc-driver](https://github.com/mmolimar/ksql-jdbc-driver) ⭐ 87 | 🐛 14 | 🌐 Scala | 📅 2022-04-01
 * [ballerina-schema-registry](https://github.com/ballerina-platform/module-ballerinax-confluent.cregistry) ⭐ 2 | 🐛 3 | 🌐 Ballerina | 📅 2026-07-03 - Ballerina Confluent Schema Registry
 

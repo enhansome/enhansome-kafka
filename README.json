@@ -893,7 +893,7 @@
                 "last_commit": "2026-08-21T19:30:59Z",
                 "owner": "snowflakedb",
                 "repo": "snowflake-kafka-connector",
-                "stars": 175
+                "stars": 176
               }
             },
             {
@@ -1129,7 +1129,7 @@
                 "archived": false,
                 "id": 197192301,
                 "language": "Java",
-                "last_commit": "2026-08-24T13:03:09Z",
+                "last_commit": "2026-08-24T14:11:35Z",
                 "owner": "Apicurio",
                 "repo": "apicurio-registry",
                 "stars": 918
@@ -1354,7 +1354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:05:22.459Z",
+    "last_updated": "2026-08-24T14:27:38.887Z",
     "original_repository": "semantalytics/awesome-kafka",
     "original_repository_id": 135755010,
     "original_repository_sha": "fe81d0ca4223170c442753b5cf5a32751b96e662",
