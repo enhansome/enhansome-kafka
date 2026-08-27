@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 58194180,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:36:11Z",
+                "last_commit": "2026-08-27T21:05:35Z",
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-operator",
-                "stars": 5916
+                "stars": 5917
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-17T20:33:58Z",
                 "owner": "cruise-control-for-kafka",
                 "repo": "cruise-control",
-                "stars": 3042
+                "stars": 3043
               }
             },
             {
@@ -152,7 +152,7 @@
                 "last_commit": "2026-08-26T21:55:22Z",
                 "owner": "spring-projects",
                 "repo": "spring-kafka",
-                "stars": 2497
+                "stars": 2498
               }
             },
             {
@@ -606,7 +606,7 @@
                 "archived": false,
                 "id": 188806350,
                 "language": "Java",
-                "last_commit": "2026-08-26T14:02:41Z",
+                "last_commit": "2026-08-27T16:52:29Z",
                 "owner": "obsidiandynamics",
                 "repo": "kafdrop",
                 "stars": 6153
@@ -621,10 +621,10 @@
                 "archived": false,
                 "id": 211644266,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T22:58:52Z",
+                "last_commit": "2026-08-27T19:55:27Z",
                 "owner": "redpanda-data",
                 "repo": "console",
-                "stars": 4324
+                "stars": 4325
               }
             },
             {
@@ -908,7 +908,7 @@
                 "last_commit": "2026-07-08T03:25:13Z",
                 "owner": "jcustenborder",
                 "repo": "kafka-connect-transform-common",
-                "stars": 174
+                "stars": 175
               }
             },
             {
@@ -1062,10 +1062,10 @@
                 "archived": false,
                 "id": 436039945,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:24:21Z",
+                "last_commit": "2026-08-27T21:12:41Z",
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1711
+                "stars": 1710
               }
             },
             {
@@ -1077,7 +1077,7 @@
                 "archived": false,
                 "id": 54389337,
                 "language": "Java",
-                "last_commit": "2026-08-25T14:03:25Z",
+                "last_commit": "2026-08-27T15:32:43Z",
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-bridge",
                 "stars": 338
@@ -1092,7 +1092,7 @@
                 "archived": false,
                 "id": 26873147,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:01:13Z",
+                "last_commit": "2026-08-27T20:52:28Z",
                 "owner": "confluentinc",
                 "repo": "kafka-rest",
                 "stars": 162
@@ -1114,7 +1114,7 @@
                 "archived": false,
                 "id": 27790789,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:23:45Z",
+                "last_commit": "2026-08-27T21:59:13Z",
                 "owner": "confluentinc",
                 "repo": "schema-registry",
                 "stars": 2463
@@ -1129,10 +1129,10 @@
                 "archived": false,
                 "id": 197192301,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:06:46Z",
+                "last_commit": "2026-08-27T20:53:58Z",
                 "owner": "Apicurio",
                 "repo": "apicurio-registry",
-                "stars": 921
+                "stars": 922
               }
             },
             {
@@ -1263,10 +1263,10 @@
                 "archived": false,
                 "id": 62117812,
                 "language": "Java",
-                "last_commit": "2026-08-27T08:41:53Z",
+                "last_commit": "2026-08-27T17:57:42Z",
                 "owner": "apache",
                 "repo": "pulsar",
-                "stars": 15315
+                "stars": 15316
               }
             },
             {
@@ -1293,10 +1293,10 @@
                 "archived": false,
                 "id": 10437688,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:11:28Z",
+                "last_commit": "2026-08-27T21:21:25Z",
                 "owner": "OpenHFT",
                 "repo": "Chronicle-Queue",
-                "stars": 3798
+                "stars": 3799
               }
             },
             {
@@ -1323,7 +1323,7 @@
                 "archived": false,
                 "id": 12960439,
                 "language": "Java",
-                "last_commit": "2026-08-25T17:19:43Z",
+                "last_commit": "2026-08-27T16:50:06Z",
                 "owner": "CorfuDB",
                 "repo": "CorfuDB",
                 "stars": 665
@@ -1354,7 +1354,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:03.516Z",
+    "last_updated": "2026-08-27T22:11:40.543Z",
     "original_repository_info": {
       "archived": false,
       "id": 135755010,
@@ -1362,7 +1362,7 @@
       "last_commit": "2025-05-21T20:43:26Z",
       "owner": "semantalytics",
       "repo": "awesome-kafka",
-      "stars": 289
+      "stars": 290
     },
     "original_repository_sha": "fe81d0ca4223170c442753b5cf5a32751b96e662",
     "enhanced_repository": "enhansome/enhansome-kafka",
