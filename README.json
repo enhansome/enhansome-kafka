@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sarama is a Go library for Apache Kafka.",
+                "homepage": null,
                 "id": 11206255,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:38:15Z",
+                "open_issues": 33,
                 "owner": "IBM",
                 "repo": "sarama",
-                "stars": 12509
+                "stars": 12509,
+                "topics": [
+                  "go",
+                  "kafka",
+                  "kafka-client"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -28,12 +37,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CMAK is a tool for managing Apache Kafka clusters",
+                "homepage": null,
                 "id": 29981861,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-02T19:26:23Z",
+                "open_issues": 522,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11925
+                "stars": 11925,
+                "topics": [
+                  "big-data",
+                  "cluster-management",
+                  "kafka",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -44,12 +63,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Kafka® running on Kubernetes",
+                "homepage": "https://strimzi.io/",
                 "id": 58194180,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T21:05:35Z",
+                "open_issues": 155,
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-operator",
-                "stars": 5920
+                "stars": 5921,
+                "topics": [
+                  "data-stream",
+                  "data-streaming",
+                  "data-streams",
+                  "hacktoberfest",
+                  "kafka",
+                  "kafka-connect",
+                  "kafka-streams",
+                  "kubernetes",
+                  "kubernetes-controller",
+                  "kubernetes-operator",
+                  "messaging",
+                  "openshift"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -60,12 +97,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic command line non-JVM Apache Kafka producer and consumer",
+                "homepage": null,
                 "id": 18257358,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-09T16:13:37Z",
+                "open_issues": 162,
                 "owner": "edenhill",
                 "repo": "kcat",
-                "stars": 5778
+                "stars": 5778,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -76,12 +118,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native)",
+                "homepage": "https://twitter.com/travisjeffery",
                 "id": 70539263,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-20T05:16:03Z",
+                "open_issues": 64,
                 "owner": "travisjeffery",
                 "repo": "jocko",
-                "stars": 5012
+                "stars": 5012,
+                "topics": [
+                  "distributed-systems",
+                  "go",
+                  "kafka",
+                  "messaging",
+                  "queue",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -92,12 +146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka Consumer Lag Checking",
+                "homepage": null,
                 "id": 36699285,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T16:01:43Z",
+                "open_issues": 250,
                 "owner": "linkedin",
                 "repo": "Burrow",
-                "stars": 3963
+                "stars": 3962,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -108,12 +167,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...",
+                "homepage": "https://akhq.io/",
                 "id": 148059143,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T12:05:16Z",
+                "open_issues": 285,
                 "owner": "tchiotludo",
                 "repo": "akhq",
-                "stars": 3849
+                "stars": 3849,
+                "topics": [
+                  "gui",
+                  "java",
+                  "kafka",
+                  "kafka-tools",
+                  "kafka-ui",
+                  "kafka-utils",
+                  "kafkahq"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -124,12 +196,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A AI-Driven, Distributed and high-performance monitoring system, for comprehensive monitoring and management of kafka cluster.",
+                "homepage": "https://www.kafka-eagle.org/",
                 "id": 80907025,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-18T15:35:57Z",
+                "open_issues": 224,
                 "owner": "smartloli",
                 "repo": "EFAK",
-                "stars": 3179
+                "stars": 3179,
+                "topics": [
+                  "ai",
+                  "consumer-group",
+                  "kafka",
+                  "kafka-eagle",
+                  "offsets"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -140,12 +223,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.",
+                "homepage": "https://github.com/linkedin/cruise-control/tags",
                 "id": 100402355,
                 "language": "Java",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-17T20:33:58Z",
+                "open_issues": 288,
                 "owner": "cruise-control-for-kafka",
                 "repo": "cruise-control",
-                "stars": 3044
+                "stars": 3044,
+                "topics": [
+                  "cluster-management",
+                  "kafka",
+                  "self-healing"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -156,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides Familiar Spring Abstractions for Apache Kafka",
+                "homepage": "https://projects.spring.io/spring-kafka",
                 "id": 52980493,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:39:30Z",
+                "open_issues": 43,
                 "owner": "spring-projects",
                 "repo": "spring-kafka",
-                "stars": 2498
+                "stars": 2498,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -172,12 +269,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.",
+                "homepage": "https://engineering.linkedin.com/blog/2016/05/open-sourcing-kafka-monitor",
                 "id": 55092426,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-09T04:22:39Z",
+                "open_issues": 33,
                 "owner": "linkedin",
                 "repo": "kafka-monitor",
-                "stars": 2064
+                "stars": 2064,
+                "topics": [
+                  "broker",
+                  "cluster",
+                  "clusters",
+                  "jmx-metrics",
+                  "kafka-broker",
+                  "kafka-cluster",
+                  "kafka-monitor",
+                  "kmf",
+                  "latency",
+                  "leader",
+                  "metrics",
+                  "monitor",
+                  "monitor-single-clusters",
+                  "monitor-topic",
+                  "partition",
+                  "partition-count",
+                  "reassigns-partition",
+                  "topic",
+                  "xinfra",
+                  "xinfra-monitor"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -188,12 +311,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secor is a service implementing Kafka log persistence",
+                "homepage": null,
                 "id": 18818296,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-10T08:39:10Z",
+                "open_issues": 269,
                 "owner": "pinterest",
                 "repo": "secor",
-                "stars": 1856
+                "stars": 1856,
+                "topics": [
+                  "kafka"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -204,12 +334,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+                "homepage": "https://doc.akka.io/libraries/alpakka-kafka/current/",
                 "id": 28635588,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T08:21:22Z",
+                "open_issues": 112,
                 "owner": "akka",
                 "repo": "alpakka-kafka",
-                "stars": 1422
+                "stars": 1422,
+                "topics": [
+                  "akka",
+                  "akka-streams",
+                  "java",
+                  "kafka",
+                  "kafka-client",
+                  "kafka-connector",
+                  "reactive",
+                  "reactive-streams",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -220,12 +365,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka command line tool that likes JSON",
+                "homepage": null,
                 "id": 50273796,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-04-08T10:08:12Z",
+                "open_issues": 11,
                 "owner": "fgeller",
                 "repo": "kt",
-                "stars": 955
+                "stars": 955,
+                "topics": [
+                  "apache-kafka",
+                  "cli",
+                  "golang",
+                  "json",
+                  "kafka"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -236,12 +392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improvement of Apache Kafka Mirrormaker",
+                "homepage": null,
                 "id": 60201162,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-16T20:30:09Z",
+                "open_issues": 78,
                 "owner": "uber",
                 "repo": "uReplicator",
-                "stars": 936
+                "stars": 936,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -252,12 +413,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and reliable message broker built on top of Kafka.",
+                "homepage": "http://hermes.allegro.tech",
                 "id": 35662043,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T15:23:50Z",
+                "open_issues": 7,
                 "owner": "allegro",
                 "repo": "hermes",
-                "stars": 865
+                "stars": 865,
+                "topics": [
+                  "hacktoberfest",
+                  "hermes",
+                  "kafka",
+                  "messaging",
+                  "pubsub"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -268,12 +440,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "gRPC/REST proxy for Kafka",
+                "homepage": null,
                 "id": 31333979,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-23T15:06:40Z",
+                "open_issues": 17,
                 "owner": "mailgun",
                 "repo": "kafka-pixy",
-                "stars": 789
+                "stars": 789,
+                "topics": [
+                  "grpc",
+                  "http",
+                  "json",
+                  "kafka",
+                  "proxy",
+                  "rest"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -284,12 +468,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool for declarative management of Kafka topics",
+                "homepage": null,
                 "id": 281490582,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-06-25T23:26:26Z",
+                "open_issues": 33,
                 "owner": "segmentio",
                 "repo": "topicctl",
-                "stars": 666
+                "stars": 666,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -300,12 +489,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Kafka audit system",
+                "homepage": null,
                 "id": 73840074,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-20T23:05:56Z",
+                "open_issues": 24,
                 "owner": "uber-archive",
                 "repo": "chaperone",
-                "stars": 635
+                "stars": 635,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -316,12 +510,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High Performance Kafka Connector for Spark Streaming.Supports Multi Topic Fetch, Kafka Security. Reliable offset management in Zookeeper. No Data-loss. No dependency on HDFS and WAL. In-built PID rate controller. Support Message Handler . Offset Lag checker.",
+                "homepage": null,
                 "id": 22544782,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-24T20:39:23Z",
+                "open_issues": 3,
                 "owner": "dibbhatt",
                 "repo": "kafka-spark-consumer",
-                "stars": 631
+                "stars": 631,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -332,12 +531,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DoctorK is a service for Kafka cluster auto healing and workload balancing",
+                "homepage": null,
                 "id": 100966553,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-15T14:54:32Z",
+                "open_issues": 42,
                 "owner": "pinterest",
                 "repo": "DoctorK",
-                "stars": 627
+                "stars": 627,
+                "topics": [
+                  "kafka"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -348,12 +554,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tools for working with Apache Kafka.",
+                "homepage": null,
                 "id": 57258311,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-24T06:19:22Z",
+                "open_issues": 24,
                 "owner": "linkedin",
                 "repo": "kafka-tools",
-                "stars": 598
+                "stars": 598,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -364,12 +575,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Kasper is a lightweight library for processing Kafka topics.",
+                "homepage": null,
                 "id": 81270985,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-02-25T04:12:00Z",
+                "open_issues": 1,
                 "owner": "nmaquet",
                 "repo": "kasper",
-                "stars": 436
+                "stars": 436,
+                "topics": [
+                  "golang-library",
+                  "kafka",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -380,12 +600,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web tool for Avro Schema Registry |",
+                "homepage": "http://lenses.io/product/features",
                 "id": 60967444,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-13T15:12:45Z",
+                "open_issues": 40,
                 "owner": "lensesio",
                 "repo": "schema-registry-ui",
-                "stars": 425
+                "stars": 425,
+                "topics": [
+                  "avro",
+                  "kafka",
+                  "schema-registry"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -396,12 +625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Relational Database Backed by Apache Kafka",
+                "homepage": null,
                 "id": 206686299,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-15T21:02:31Z",
+                "open_issues": 12,
                 "owner": "rayokota",
                 "repo": "kareldb",
-                "stars": 389
+                "stars": 389,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -412,12 +646,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "High throughput asynchronous task processing on Apache Kafka ",
+                "homepage": null,
                 "id": 245131903,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-19T06:43:49Z",
+                "open_issues": 20,
                 "owner": "line",
                 "repo": "decaton",
-                "stars": 373
+                "stars": 373,
+                "topics": [
+                  "java",
+                  "kafka",
+                  "kafka-consumer"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -428,12 +671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Websocket server interface for Kafka distributed message broker",
+                "homepage": null,
                 "id": 17556225,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-12-16T06:22:52Z",
+                "open_issues": 12,
                 "owner": "b",
                 "repo": "kafka-websocket",
-                "stars": 353
+                "stars": 353,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -444,12 +692,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 55727134,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-08-24T10:15:48Z",
+                "open_issues": 29,
                 "owner": "YelpArchive",
                 "repo": "kafka-utils",
-                "stars": 316
+                "stars": 316,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -460,12 +713,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complex Event Processing on top of Kafka Streams",
+                "homepage": null,
                 "id": 60930425,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-16T20:24:35Z",
+                "open_issues": 6,
                 "owner": "fhussonnois",
                 "repo": "kafkastreams-cep",
-                "stars": 315
+                "stars": 315,
+                "topics": [
+                  "cep",
+                  "complex-event-processing",
+                  "kafka",
+                  "kafka-streams"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -476,12 +739,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An In-Memory Cache Backed by Apache Kafka",
+                "homepage": null,
                 "id": 157827731,
                 "language": "Java",
-                "last_commit": "2025-12-29T13:02:02Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T23:49:09Z",
+                "open_issues": 18,
                 "owner": "rayokota",
                 "repo": "kcache",
-                "stars": 260
+                "stars": 260,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -492,12 +760,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirus is a cross data-center data replication tool for Apache Kafka",
+                "homepage": null,
                 "id": 140903124,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-05T04:30:19Z",
+                "open_issues": 28,
                 "owner": "salesforce",
                 "repo": "mirus",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "kafka",
+                  "kafka-connect",
+                  "mirroring"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -508,12 +785,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Apache Kafka load testing \"...basically a cloth bag filled with small jagged pieces of scrap iron\"",
+                "homepage": null,
                 "id": 24428329,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-05-12T21:34:30Z",
+                "open_issues": 12,
                 "owner": "jamiealquiza",
                 "repo": "sangrenel",
-                "stars": 205
+                "stars": 205,
+                "topics": [
+                  "benchmark",
+                  "go",
+                  "kafka",
+                  "load-testing",
+                  "sarama"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -524,12 +812,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 30079086,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-04T06:45:09Z",
+                "open_issues": 24,
                 "owner": "chbatey",
                 "repo": "kafka-unit",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -540,12 +833,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command Line Interface and MCP Server for the Strimzi Kafka Operator",
+                "homepage": null,
                 "id": 259908554,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T15:43:13Z",
+                "open_issues": 30,
                 "owner": "SystemCraftsman",
                 "repo": "strimzi-kafka-cli",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "apache-kafka",
+                  "cli",
+                  "command-line-interface",
+                  "command-line-tool",
+                  "hacktoberfest",
+                  "kafka",
+                  "kubernetes",
+                  "mcp",
+                  "mcp-server",
+                  "messaging",
+                  "openshift",
+                  "strimzi"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -556,12 +867,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "workable kafka cluster with kraft mode using docker-compose",
+                "homepage": null,
                 "id": 567073397,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-08-01T10:39:25Z",
+                "open_issues": 1,
                 "owner": "minhhungit",
                 "repo": "kafka-kraft-cluster-docker-compose",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "docker-compose",
+                  "kafka",
+                  "kafka-cluster",
+                  "kafka-kraft",
+                  "kafka-ui",
+                  "kafka-zookeeperless"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -572,12 +895,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka partition assignor that distributes lag evenly across a consumer group",
+                "homepage": null,
                 "id": 91940021,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-13T02:15:13Z",
+                "open_issues": 5,
                 "owner": "grantneale",
                 "repo": "kafka-lag-based-assignor",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -588,12 +916,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Confluent KSQL Addon - User Defined Function (UDF) for Machine Learning",
+                "homepage": null,
                 "id": 124901288,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-26T12:36:29Z",
+                "open_issues": 0,
                 "owner": "kaiwaehner",
                 "repo": "ksql-machine-learning-udf",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -604,12 +937,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka Serializer, Deserializer, and Serde for Jackson JSON",
+                "homepage": null,
                 "id": 129533316,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2018-04-14T23:20:27Z",
+                "open_issues": 0,
                 "owner": "jcustenborder",
                 "repo": "kafka-jackson",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "deserialization",
+                  "jackson",
+                  "json",
+                  "kafka",
+                  "serialization"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -620,12 +964,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "beats for kafka",
+                "homepage": null,
                 "id": 88141733,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2017-09-12T08:10:21Z",
+                "open_issues": 0,
                 "owner": "dearcode",
                 "repo": "kafkabeat",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "beats",
+                  "elastic",
+                  "elasticsearch",
+                  "kafka"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             }
@@ -643,12 +997,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka Web UI",
+                "homepage": null,
                 "id": 188806350,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T16:52:29Z",
+                "open_issues": 46,
                 "owner": "obsidiandynamics",
                 "repo": "kafdrop",
-                "stars": 6154
+                "stars": 6154,
+                "topics": [
+                  "consumer-group",
+                  "consumer-producer",
+                  "docker",
+                  "event-sourcing",
+                  "event-streaming",
+                  "kafka",
+                  "kafka-tools",
+                  "kafka-ui",
+                  "kafka-utils",
+                  "kubernetes",
+                  "pub-sub",
+                  "topic",
+                  "web-ui",
+                  "zookeeper"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -659,12 +1033,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redpanda Console is a developer-friendly UI for managing your Kafka/Redpanda workloads. Console gives you a simple, interactive approach for gaining visibility into your topics, masking data, managing consumer groups, and exploring real-time data with time-travel debugging.",
+                "homepage": "https://redpanda.com",
                 "id": 211644266,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T22:06:06Z",
+                "license": null,
+                "last_commit": "2026-08-28T22:55:59Z",
+                "open_issues": 156,
                 "owner": "redpanda-data",
                 "repo": "console",
-                "stars": 4325
+                "stars": 4325,
+                "topics": [
+                  "apache-kafka",
+                  "dataops",
+                  "go",
+                  "kafka",
+                  "kafka-gui",
+                  "kafka-ui",
+                  "react",
+                  "typescript",
+                  "web-ui"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -675,12 +1064,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Tool for Kafka Topics  | ",
+                "homepage": "https://lenses.io",
                 "id": 64036832,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-02-17T15:15:14Z",
+                "open_issues": 14,
                 "owner": "lensesio",
                 "repo": "kafka-topics-ui",
-                "stars": 875
+                "stars": 875,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -691,12 +1085,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deprecated - See Lenses.io Community Edition",
+                "homepage": "https://lenses.io/community-edition/",
                 "id": 75401204,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-07T13:16:56Z",
+                "open_issues": 28,
                 "owner": "lensesio",
                 "repo": "kafka-connect-ui",
-                "stars": 519
+                "stars": 519,
+                "topics": [
+                  "cassandra",
+                  "documentdb",
+                  "elasticsearch",
+                  "hdfs",
+                  "influxdb",
+                  "jms",
+                  "kafka",
+                  "kafka-connect",
+                  "mqtt",
+                  "redis",
+                  "s3",
+                  "twitter"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -707,12 +1119,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-featured web-based Apache Kafka consumer UI",
+                "homepage": null,
                 "id": 106082622,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-07-13T04:57:32Z",
+                "open_issues": 59,
                 "owner": "SourceLabOrg",
                 "repo": "kafka-webview",
-                "stars": 393
+                "stars": 393,
+                "topics": [
+                  "admin",
+                  "admin-panel",
+                  "kafka",
+                  "kafka-consumer"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -723,12 +1145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cruise Control Frontend (CCFE): Single Page Web Application to Manage Large Scale of Kafka Clusters",
+                "homepage": null,
                 "id": 153952546,
                 "language": "Vue",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-08-20T04:52:30Z",
+                "open_issues": 25,
                 "owner": "linkedin",
                 "repo": "cruise-control-ui",
-                "stars": 375
+                "stars": 375,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -739,12 +1166,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka web UI",
+                "homepage": null,
                 "id": 86787838,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2022-09-01T22:26:17Z",
+                "open_issues": 20,
                 "owner": "fede1024",
                 "repo": "kafka-view",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "kafka",
+                  "user-interface",
+                  "web-interface"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -755,12 +1191,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Yet another Web UI for KSQL",
+                "homepage": null,
                 "id": 112468798,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2018-07-30T02:22:37Z",
+                "open_issues": 1,
                 "owner": "matsumana",
                 "repo": "tsujun",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "kafka",
+                  "kafka-streams",
+                  "ksql"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -771,12 +1216,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast data arrives in real time and potentially high volume. Rapid processing, filtering and aggregation is required to ensure timely reaction and actual information in user interfaces. Doing so is a challenge, make this happen in a scalable and reliable fashion is even more interesting. This session introduces Apache Kafka as the scalable event bus that takes care of the events as they flow in and Kafka Streams for the streaming analytics. Both Java and Node applications are demonstrated that interact with Kafka and leverage Server Sent Events and WebSocket channels to update the Web UI in real time. User activity performed by the audience in the Web UI is processed by the Kafka powered back end and results in live updates on all clients.",
+                "homepage": null,
                 "id": 105388475,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2017-10-03T14:52:10Z",
+                "open_issues": 1,
                 "owner": "lucasjellema",
                 "repo": "real-time-ui-with-kafka-streams",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -787,12 +1237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 807164351,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-02T18:18:08Z",
+                "open_issues": 1,
                 "owner": "imkrishnaagrawal",
                 "repo": "KafkaTrail",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             }
@@ -810,12 +1265,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web tool for Avro Schema Registry |",
+                "homepage": "http://lenses.io/product/features",
                 "id": 60967444,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-13T15:12:45Z",
+                "open_issues": 40,
                 "owner": "lensesio",
                 "repo": "schema-registry-ui",
-                "stars": 425
+                "stars": 425,
+                "topics": [
+                  "avro",
+                  "kafka",
+                  "schema-registry"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -826,12 +1290,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Python implementation of Apache Kafka Streams",
+                "homepage": null,
                 "id": 96986889,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-23T12:34:10Z",
+                "open_issues": 0,
                 "owner": "wintoncode",
                 "repo": "winton-kafka-streams",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "kafka-streams",
+                  "librdkafka",
+                  "python",
+                  "streaming-api"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -842,12 +1316,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Kafka Operator for Kubernetes ",
+                "homepage": null,
                 "id": 82293804,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-28T13:12:53Z",
+                "open_issues": 32,
                 "owner": "krallistic",
                 "repo": "kafka-operator",
-                "stars": 293
+                "stars": 293,
+                "topics": [
+                  "kafka",
+                  "kubernetes",
+                  "kubernetes-operator"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -858,12 +1341,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scala DSL for Unit-Testing Processing Topologies in Kafka Streams",
+                "homepage": null,
                 "id": 69183604,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-16T10:58:04Z",
+                "open_issues": 7,
                 "owner": "jpzk",
                 "repo": "mockedstreams",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "kafka",
+                  "kafka-streams",
+                  "mocked-streams",
+                  "scala",
+                  "testing",
+                  "topology",
+                  "unit-testing"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -874,12 +1370,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically rebalance your kafka topics, partitions, replicas across your cluster",
+                "homepage": null,
                 "id": 58299958,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2017-11-14T05:48:32Z",
+                "open_issues": 1,
                 "owner": "CAFxX",
                 "repo": "kafkabalancer",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -890,12 +1391,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Kafka Streams process to convert __consumer_offsets to a JSON-readable topic",
+                "homepage": null,
                 "id": 98938716,
                 "language": "Scala",
+                "license": null,
                 "last_commit": "2019-10-18T22:51:34Z",
+                "open_issues": 2,
                 "owner": "sderosiaux",
                 "repo": "kafka-streams-consumer-offsets-to-json",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "kafka",
+                  "kafkastreams"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             }
@@ -913,12 +1422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Maxwell's daemon, a mysql-to-json kafka producer",
+                "homepage": "https://maxwells-daemon.io/",
                 "id": 30561160,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T01:22:29Z",
+                "open_issues": 266,
                 "owner": "zendesk",
                 "repo": "maxwell",
-                "stars": 4258
+                "stars": 4258,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -929,12 +1443,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔗 A multipurpose Kafka Connect connector that makes it easy to parse, transform and stream any file, in any format, into Apache Kafka",
+                "homepage": "https://streamthoughts.github.io/kafka-connect-file-pulse/",
                 "id": 170883666,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-26T09:59:16Z",
+                "open_issues": 49,
                 "owner": "streamthoughts",
                 "repo": "kafka-connect-file-pulse",
-                "stars": 350
+                "stars": 350,
+                "topics": [
+                  "amazon-s3",
+                  "avro",
+                  "azure-storage",
+                  "csv",
+                  "etl",
+                  "file-streaming",
+                  "google-cloud",
+                  "grok-filters",
+                  "kafka",
+                  "kafka-connect",
+                  "kafka-connector",
+                  "kafka-producer",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -945,12 +1478,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snowflake Kafka Connector (Sink Connector)",
+                "homepage": null,
                 "id": 187924780,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T13:07:59Z",
+                "open_issues": 48,
                 "owner": "snowflakedb",
                 "repo": "snowflake-kafka-connector",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "java",
+                  "kafka",
+                  "kafka-connect",
+                  "snowflake"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -961,12 +1504,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common Transforms for Kafka Connect.",
+                "homepage": null,
                 "id": 104228450,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-08T03:25:13Z",
+                "open_issues": 25,
                 "owner": "jcustenborder",
                 "repo": "kafka-connect-transform-common",
-                "stars": 175
+                "stars": 175,
+                "topics": [
+                  "kafka-connect",
+                  "transformations"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -977,12 +1528,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains a Kafka Connect source connector for copying data from IBM MQ into Apache Kafka.",
+                "homepage": null,
                 "id": 99797797,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T03:58:23Z",
+                "open_issues": 13,
                 "owner": "ibm-messaging",
                 "repo": "kafka-connect-mq-source",
-                "stars": 108
+                "stars": 108,
+                "topics": [
+                  "ibm-mq",
+                  "kafka-connect"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -993,12 +1552,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Protobuf converter plugin for Kafka Connect",
+                "homepage": null,
                 "id": 116156984,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-30T19:56:52Z",
+                "open_issues": 18,
                 "owner": "blueapron",
                 "repo": "kafka-connect-protobuf-converter",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "data",
+                  "data-platform",
+                  "jar",
+                  "kafka",
+                  "kafka-connect",
+                  "protobuf",
+                  "protobuf-converter",
+                  "protocol-buffers"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1009,12 +1582,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aiven's collection of Single Message Transformations (SMTs) for Apache Kafka Connect",
+                "homepage": null,
                 "id": 206547143,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T15:03:01Z",
+                "open_issues": 12,
                 "owner": "Aiven-Open",
                 "repo": "transforms-for-apache-kafka-connect",
-                "stars": 89
+                "stars": 90,
+                "topics": [
+                  "kafka",
+                  "kafka-connect",
+                  "kafka-connect-transformations",
+                  "kafka-connect-transforms"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1025,12 +1608,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A kafka-connect REST api client for java",
+                "homepage": null,
                 "id": 123461371,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-06-26T10:26:32Z",
+                "open_issues": 10,
                 "owner": "SourceLabOrg",
                 "repo": "kafka-connect-client",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "java",
+                  "kafka",
+                  "kafka-connect",
+                  "rest-client"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1041,12 +1634,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Kafka Connect IoT Hub is a Kafka source connector for pumping data from Azure IoT Hub to Kafka.",
+                "homepage": null,
                 "id": 75020889,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2020-04-13T18:14:18Z",
+                "open_issues": 3,
                 "owner": "Azure",
                 "repo": "toketi-kafka-connect-iothub",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1057,12 +1655,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka Connect Connector for Jenkins Open Source Continuous Integration Tool",
+                "homepage": null,
                 "id": 57932954,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-15T23:30:31Z",
+                "open_issues": 14,
                 "owner": "yaravind",
                 "repo": "kafka-connect-jenkins",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "jenkins",
+                  "kafka",
+                  "kafka-connect",
+                  "kafka-connector"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1073,12 +1681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kafka Connect HTTP API Connector",
+                "homepage": null,
                 "id": 141193744,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-07T21:17:14Z",
+                "open_issues": 9,
                 "owner": "thomaskwscott",
                 "repo": "kafka-connect-http",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1089,12 +1702,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A kafka connect util",
+                "homepage": "https://connectctl.readthedocs.io",
                 "id": 200218002,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-05T02:36:06Z",
+                "open_issues": 8,
                 "owner": "90poe",
                 "repo": "connectctl",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "golang",
+                  "kafka-connect",
+                  "kafka-connector"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1105,12 +1727,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 118116161,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2018-11-14T16:19:36Z",
+                "open_issues": 2,
                 "owner": "lensesio",
                 "repo": "kafka-connect-transformers",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             }
@@ -1128,12 +1755,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🦎 A lightweight, multi-protocol gateway for event-driven applications and AI agents. Expose and govern Kafka, MQTT, APIs, and MCP through one high-performance engine with shared routing, security, schema, and observability.",
+                "homepage": "https://docs.aklivity.io/latest",
                 "id": 436039945,
                 "language": "Java",
-                "last_commit": "2026-08-28T22:08:39Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T23:59:33Z",
+                "open_issues": 227,
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1713
+                "stars": 1713,
+                "topics": [
+                  "api-gateway",
+                  "asyncapi",
+                  "event-driven-architecture",
+                  "event-stream-proxy",
+                  "event-streaming",
+                  "grpc",
+                  "iot",
+                  "kafka",
+                  "kafka-proxy",
+                  "mqtt",
+                  "openapi",
+                  "proxy",
+                  "rest",
+                  "server-sent-events",
+                  "streaming-api"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1144,12 +1792,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An HTTP bridge for Apache Kafka®",
+                "homepage": null,
                 "id": 54389337,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:32:43Z",
+                "open_issues": 14,
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-bridge",
-                "stars": 339
+                "stars": 339,
+                "topics": [
+                  "bridge",
+                  "hacktoberfest",
+                  "http",
+                  "kafka",
+                  "kafka-bridge",
+                  "kafka-client",
+                  "kafka-consumer",
+                  "kafka-producer",
+                  "kafka-rest-proxy"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1160,12 +1823,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Confluent REST Proxy for Kafka",
+                "homepage": "https://docs.confluent.io/current/kafka-rest/docs/index.html",
                 "id": 26873147,
                 "language": "Java",
-                "last_commit": "2026-08-28T20:18:08Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:35:53Z",
+                "open_issues": 275,
                 "owner": "confluentinc",
                 "repo": "kafka-rest",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "confluent",
+                  "kafka",
+                  "kafka-rest-proxy",
+                  "rest-api",
+                  "schema-registry"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             }
@@ -1183,12 +1857,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Confluent Schema Registry for Kafka",
+                "homepage": "https://docs.confluent.io/current/schema-registry/docs/index.html",
                 "id": 27790789,
                 "language": "Java",
-                "last_commit": "2026-08-28T22:11:52Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:11:06Z",
+                "open_issues": 390,
                 "owner": "confluentinc",
                 "repo": "schema-registry",
-                "stars": 2463
+                "stars": 2463,
+                "topics": [
+                  "avro",
+                  "avro-schema",
+                  "confluent",
+                  "json",
+                  "json-schema",
+                  "kafka",
+                  "protobuf",
+                  "protobuf-schema",
+                  "rest-api",
+                  "schema",
+                  "schema-registry",
+                  "schemas"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1199,12 +1891,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An API/Schema registry - stores APIs and Schemas.",
+                "homepage": "https://www.apicur.io/registry/",
                 "id": 197192301,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T21:38:30Z",
+                "open_issues": 621,
                 "owner": "Apicurio",
                 "repo": "apicurio-registry",
-                "stars": 922
+                "stars": 922,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1215,12 +1912,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JDBC driver for Apache Kafka",
+                "homepage": null,
                 "id": 105722575,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-01T04:28:10Z",
+                "open_issues": 14,
                 "owner": "mmolimar",
                 "repo": "ksql-jdbc-driver",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "apache-kafka",
+                  "confluent",
+                  "driver",
+                  "jdbc",
+                  "kafka",
+                  "ksql",
+                  "ksqldb"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1231,12 +1941,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Ballerina Avro Ser/Des package for Confluent provides APIs which will hide the complexities in serializing and deserializing data using Avro schemas along with the registration and retrieval of these schemas from the schema registry",
+                "homepage": null,
                 "id": 780261942,
                 "language": "Ballerina",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-03T11:42:30Z",
+                "open_issues": 3,
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-confluent.cregistry",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "avro",
+                  "ballerina",
+                  "confluent",
+                  "integration",
+                  "schema-registry"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             }
@@ -1254,12 +1975,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list about Apache Kafka",
+                "homepage": null,
                 "id": 57344930,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-05T03:50:08Z",
+                "open_issues": 2,
                 "owner": "infoslack",
                 "repo": "awesome-kafka",
-                "stars": 591
+                "stars": 591,
+                "topics": [
+                  "apache-kafka",
+                  "apache-spark",
+                  "data-pipeline",
+                  "data-processing",
+                  "infrastructure",
+                  "kafka",
+                  "kafka-streams",
+                  "stream-processing",
+                  "streaming-data"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1270,12 +2006,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Everything about Apache Kafka",
+                "homepage": null,
                 "id": 87770687,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-06T19:15:16Z",
+                "open_issues": 2,
                 "owner": "dharmeshkakadia",
                 "repo": "awesome-kafka",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "awesome",
+                  "awsome-list",
+                  "kafka"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1286,12 +2031,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated re-sources list for awesome Apache Kafka ",
+                "homepage": "https://kafka.apache.org/",
                 "id": 112169231,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-07T12:12:38Z",
+                "open_issues": 1,
                 "owner": "jitendra3109",
                 "repo": "ApacheKafka",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "kafka",
+                  "opensource",
+                  "stream"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1302,12 +2056,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Ballerina Avro Ser/Des package for Confluent provides APIs which will hide the complexities in serializing and deserializing data using Avro schemas along with the registration and retrieval of these schemas from the schema registry",
+                "homepage": null,
                 "id": 781285230,
                 "language": "Ballerina",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-04T05:05:54Z",
+                "open_issues": 0,
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-confluent.cavroserdes",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "ballerina"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1318,12 +2079,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 133014960,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-05-22T14:39:17Z",
+                "open_issues": 0,
                 "owner": "anascotti",
                 "repo": "awesome-kafka-playground",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             }
@@ -1341,12 +2107,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Pulsar - distributed pub-sub messaging system",
+                "homepage": "https://pulsar.apache.org/",
                 "id": 62117812,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:54:49Z",
+                "open_issues": 1731,
                 "owner": "apache",
                 "repo": "pulsar",
-                "stars": 15316
+                "stars": 15316,
+                "topics": [
+                  "event-streaming",
+                  "messaging",
+                  "pubsub",
+                  "pulsar",
+                  "queuing",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1357,12 +2135,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Stream Processing",
+                "homepage": null,
                 "id": 84353800,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-27T10:27:41Z",
+                "open_issues": 279,
                 "owner": "robinhood",
                 "repo": "faust",
-                "stars": 6825
+                "stars": 6825,
+                "topics": [
+                  "asyncio",
+                  "distributed-systems",
+                  "kafka",
+                  "kafka-streams",
+                  "python",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1373,12 +2163,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro second messaging that stores everything to disk",
+                "homepage": "http://chronicle.software/products/chronicle-queue/",
                 "id": 10437688,
                 "language": "Java",
-                "last_commit": "2026-08-28T21:15:48Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:43:48Z",
+                "open_issues": 47,
                 "owner": "OpenHFT",
                 "repo": "Chronicle-Queue",
-                "stars": 3799
+                "stars": 3799,
+                "topics": [
+                  "chronicle",
+                  "java",
+                  "low-latency",
+                  "performance",
+                  "persistance",
+                  "queue"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1389,12 +2191,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter",
+                "homepage": "https://heron.apache.org/",
                 "id": 43158694,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-03-01T15:11:08Z",
+                "open_issues": 409,
                 "owner": "apache",
                 "repo": "incubator-heron",
-                "stars": 3628
+                "stars": 3628,
+                "topics": [
+                  "heron",
+                  "messaging",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1405,12 +2216,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cluster consistency platform",
+                "homepage": null,
                 "id": 12960439,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T16:50:06Z",
+                "open_issues": 201,
                 "owner": "CorfuDB",
                 "repo": "CorfuDB",
-                "stars": 665
+                "stars": 665,
+                "topics": [
+                  "consensus",
+                  "database",
+                  "datastore",
+                  "distributed-database",
+                  "distributed-systems",
+                  "nosql",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             },
@@ -1421,12 +2245,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time message streaming over a Hazelcast in-memory data grid",
+                "homepage": null,
                 "id": 130308047,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-07-25T04:28:01Z",
+                "open_issues": 0,
                 "owner": "obsidiandynamics",
                 "repo": "meteor",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "cqrs",
+                  "event-driven",
+                  "eventual-consistency",
+                  "hazelcast",
+                  "imdg",
+                  "in-memory",
+                  "java",
+                  "kafka",
+                  "kinesis",
+                  "message-queue",
+                  "message-streaming",
+                  "mq",
+                  "pub-sub",
+                  "reactive",
+                  "scalability"
+                ]
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
             }
@@ -1440,15 +2285,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:12:38.160Z",
+    "last_updated": "2026-08-29T04:47:32.253Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome things related to Apache Kafka",
+      "homepage": null,
       "id": 135755010,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-05-21T20:43:26Z",
+      "open_issues": 14,
       "owner": "semantalytics",
       "repo": "awesome-kafka",
-      "stars": 290
+      "stars": 290,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "kafka"
+      ]
     },
     "original_repository_sha": "fe81d0ca4223170c442753b5cf5a32751b96e662",
     "enhanced_repository": "enhansome/enhansome-kafka",
