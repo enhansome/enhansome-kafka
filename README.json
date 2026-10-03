@@ -17,8 +17,8 @@
                 "id": 11206255,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:59:52Z",
-                "open_issues": 50,
+                "last_commit": "2026-10-02T21:04:56Z",
+                "open_issues": 49,
                 "owner": "IBM",
                 "repo": "sarama",
                 "stars": 12523,
@@ -69,7 +69,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T15:20:00Z",
-                "open_issues": 152,
+                "open_issues": 153,
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-operator",
                 "stars": 5947,
@@ -176,7 +176,7 @@
                 "open_issues": 301,
                 "owner": "tchiotludo",
                 "repo": "akhq",
-                "stars": 3859,
+                "stars": 3858,
                 "topics": [
                   "gui",
                   "java",
@@ -228,8 +228,8 @@
                 "id": 100402355,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T01:43:20Z",
-                "open_issues": 277,
+                "last_commit": "2026-10-02T19:31:27Z",
+                "open_issues": 275,
                 "owner": "cruise-control-for-kafka",
                 "repo": "cruise-control",
                 "stars": 3044,
@@ -244,7 +244,7 @@
             {
               "node_type": "item",
               "title": "spring-kafka",
-              "description": null,
+              "description": "spring-projects/spring-kafka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -265,7 +265,7 @@
             {
               "node_type": "item",
               "title": "kafka-monitor",
-              "description": null,
+              "description": "linkedin/kafka-monitor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -506,7 +506,7 @@
             {
               "node_type": "item",
               "title": "kafka-spark-consumer",
-              "description": null,
+              "description": "dibbhatt/kafka-spark-consumer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -540,7 +540,7 @@
                 "open_issues": 42,
                 "owner": "pinterest",
                 "repo": "DoctorK",
-                "stars": 627,
+                "stars": 626,
                 "topics": [
                   "kafka"
                 ]
@@ -667,7 +667,7 @@
             {
               "node_type": "item",
               "title": "kafka-websocket",
-              "description": null,
+              "description": "b/kafka-websocket",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -688,7 +688,7 @@
             {
               "node_type": "item",
               "title": "Yelp kafka-utils",
-              "description": null,
+              "description": "YelpArchive/kafka-utils",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -781,7 +781,7 @@
             {
               "node_type": "item",
               "title": "sangrenel",
-              "description": null,
+              "description": "jamiealquiza/sangrenel",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -808,7 +808,7 @@
             {
               "node_type": "item",
               "title": "kafka-unit",
-              "description": null,
+              "description": "chbatey/kafka-unit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -912,7 +912,7 @@
             {
               "node_type": "item",
               "title": "ksql-machine-learning-udf",
-              "description": null,
+              "description": "kaiwaehner/ksql-machine-learning-udf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1029,7 +1029,7 @@
             {
               "node_type": "item",
               "title": "kowl",
-              "description": null,
+              "description": "redpanda-data/console",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1038,8 +1038,8 @@
                 "id": 211644266,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-02T01:26:52Z",
-                "open_issues": 149,
+                "last_commit": "2026-10-02T21:12:30Z",
+                "open_issues": 148,
                 "owner": "redpanda-data",
                 "repo": "console",
                 "stars": 4334,
@@ -1060,7 +1060,7 @@
             {
               "node_type": "item",
               "title": "kafka-topics-ui",
-              "description": null,
+              "description": "lensesio/kafka-topics-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1115,7 +1115,7 @@
             {
               "node_type": "item",
               "title": "kafka-webview",
-              "description": null,
+              "description": "SourceLabOrg/kafka-webview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1141,7 +1141,7 @@
             {
               "node_type": "item",
               "title": "cruise-control-ui",
-              "description": null,
+              "description": "linkedin/cruise-control-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1162,7 +1162,7 @@
             {
               "node_type": "item",
               "title": "kafka-view",
-              "description": null,
+              "description": "fede1024/kafka-view",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1212,7 +1212,7 @@
             {
               "node_type": "item",
               "title": "real-time-ui-with-kafka-streams",
-              "description": null,
+              "description": "lucasjellema/real-time-ui-with-kafka-streams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1233,7 +1233,7 @@
             {
               "node_type": "item",
               "title": "KafkaTrail",
-              "description": null,
+              "description": "imkrishnaagrawal/KafkaTrail",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1261,7 +1261,7 @@
             {
               "node_type": "item",
               "title": "schema-registry-ui",
-              "description": null,
+              "description": "lensesio/schema-registry-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1312,7 +1312,7 @@
             {
               "node_type": "item",
               "title": "kafka-operator",
-              "description": null,
+              "description": "krallistic/kafka-operator",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1337,7 +1337,7 @@
             {
               "node_type": "item",
               "title": "mockedstreams",
-              "description": null,
+              "description": "jpzk/mockedstreams",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1366,7 +1366,7 @@
             {
               "node_type": "item",
               "title": "kafkabalancer",
-              "description": null,
+              "description": "CAFxX/kafkabalancer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1418,7 +1418,7 @@
             {
               "node_type": "item",
               "title": "Maxwell",
-              "description": null,
+              "description": "zendesk/maxwell",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1474,7 +1474,7 @@
             {
               "node_type": "item",
               "title": "snowflake-kafka-connector",
-              "description": null,
+              "description": "snowflakedb/snowflake-kafka-connector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1483,7 +1483,7 @@
                 "id": 187924780,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T02:11:08Z",
+                "last_commit": "2026-10-03T00:24:42Z",
                 "open_issues": 56,
                 "owner": "snowflakedb",
                 "repo": "snowflake-kafka-connector",
@@ -1524,7 +1524,7 @@
             {
               "node_type": "item",
               "title": "kafka-connect-mq-source",
-              "description": null,
+              "description": "ibm-messaging/kafka-connect-mq-source",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1630,7 +1630,7 @@
             {
               "node_type": "item",
               "title": "toketi-kafka-connect-iohub",
-              "description": null,
+              "description": "Azure/toketi-kafka-connect-iothub",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1651,7 +1651,7 @@
             {
               "node_type": "item",
               "title": "kafka-connect-jenkins",
-              "description": null,
+              "description": "yaravind/kafka-connect-jenkins",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1677,7 +1677,7 @@
             {
               "node_type": "item",
               "title": "kafka-connect-http",
-              "description": null,
+              "description": "thomaskwscott/kafka-connect-http",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1723,7 +1723,7 @@
             {
               "node_type": "item",
               "title": "kafka-connect-transformers",
-              "description": null,
+              "description": "lensesio/kafka-connect-transformers",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1760,8 +1760,8 @@
                 "id": 436039945,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T04:05:58Z",
-                "open_issues": 236,
+                "last_commit": "2026-10-02T23:24:26Z",
+                "open_issues": 240,
                 "owner": "aklivity",
                 "repo": "zilla",
                 "stars": 1716,
@@ -1828,7 +1828,7 @@
                 "id": 26873147,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:34:07Z",
+                "last_commit": "2026-10-03T03:49:01Z",
                 "open_issues": 276,
                 "owner": "confluentinc",
                 "repo": "kafka-rest",
@@ -1862,8 +1862,8 @@
                 "id": 27790789,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:32:00Z",
-                "open_issues": 400,
+                "last_commit": "2026-10-03T04:23:18Z",
+                "open_issues": 398,
                 "owner": "confluentinc",
                 "repo": "schema-registry",
                 "stars": 2466,
@@ -1896,8 +1896,8 @@
                 "id": 197192301,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:53:49Z",
-                "open_issues": 739,
+                "last_commit": "2026-10-02T22:59:29Z",
+                "open_issues": 738,
                 "owner": "Apicurio",
                 "repo": "apicurio-registry",
                 "stars": 940,
@@ -1908,7 +1908,7 @@
             {
               "node_type": "item",
               "title": "ksql-jdbc-driver",
-              "description": null,
+              "description": "mmolimar/ksql-jdbc-driver",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1971,7 +1971,7 @@
             {
               "node_type": "item",
               "title": "infoslack/awesome-kafka",
-              "description": null,
+              "description": "infoslack/awesome-kafka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2002,7 +2002,7 @@
             {
               "node_type": "item",
               "title": "dharmeshkakadia/awesome-kafka",
-              "description": null,
+              "description": "dharmeshkakadia/awesome-kafka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2027,7 +2027,7 @@
             {
               "node_type": "item",
               "title": "ApacheKafka",
-              "description": null,
+              "description": "jitendra3109/ApacheKafka",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2075,7 +2075,7 @@
             {
               "node_type": "item",
               "title": "awesome-kafka-playground",
-              "description": null,
+              "description": "anascotti/awesome-kafka-playground",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2103,7 +2103,7 @@
             {
               "node_type": "item",
               "title": "Pulsar",
-              "description": null,
+              "description": "apache/pulsar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2112,7 +2112,7 @@
                 "id": 62117812,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T14:53:08Z",
+                "last_commit": "2026-10-02T19:29:26Z",
                 "open_issues": 1771,
                 "owner": "apache",
                 "repo": "pulsar",
@@ -2159,7 +2159,7 @@
             {
               "node_type": "item",
               "title": "Chronicle-Queue",
-              "description": null,
+              "description": "OpenHFT/Chronicle-Queue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2187,7 +2187,7 @@
             {
               "node_type": "item",
               "title": "Heron",
-              "description": null,
+              "description": "apache/incubator-heron",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2212,7 +2212,7 @@
             {
               "node_type": "item",
               "title": "CorfuDB",
-              "description": null,
+              "description": "CorfuDB/CorfuDB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2221,7 +2221,7 @@
                 "id": 12960439,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T19:01:42Z",
+                "last_commit": "2026-10-02T21:39:43Z",
                 "open_issues": 203,
                 "owner": "CorfuDB",
                 "repo": "CorfuDB",
@@ -2285,7 +2285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:47:57.539Z",
+    "last_updated": "2026-10-03T04:52:12.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Apache Kafka",
