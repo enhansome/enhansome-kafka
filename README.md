@@ -32,7 +32,7 @@
 
 ### Kafka
 
-* [sarama](https://github.com/Shopify/sarama) ⭐ 12,521 | 🐛 52 | 🌐 Go | 📅 2026-10-05 - Sarama is an MIT-licensed Go client library for Apache Kafka version 0.8 (and later).
+* [sarama](https://github.com/Shopify/sarama) ⭐ 12,522 | 🐛 52 | 🌐 Go | 📅 2026-10-05 - Sarama is an MIT-licensed Go client library for Apache Kafka version 0.8 (and later).
 * [Kafka Manager](https://github.com/yahoo/kafka-manager) ⭐ 11,920 | 🐛 522 | 🌐 Scala | 📅 2023-08-02 - Web-based tool for managing a Kafka cluster.
 * [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) ⭐ 5,947 | 🐛 157 | 🌐 Java | 📅 2026-10-05 - Operator for deploying and running Apache Kafka on Kubernetes and OpenShift.
 * [kafkacat](https://github.com/edenhill/kafkacat) ⭐ 5,784 | 🐛 161 | 🌐 C | 📅 2024-07-09 - Generic command line non-JVM Apache Kafka producer and consumer.
@@ -40,8 +40,8 @@
 * [Burrow](https://github.com/linkedin/Burrow) ⭐ 3,967 | 🐛 253 | 🌐 Go | 📅 2026-08-21 - Kafka Consumer Lag Checking.
 * [kafkahq](https://github.com/tchiotludo/kafkahq) ⭐ 3,859 | 🐛 302 | 🌐 Java | 📅 2026-10-05 - Kafka GUI for topics, topics data, consumers group, schema registry, connect and more.
 * [kafka-eagle](https://github.com/smartloli/kafka-eagle) ⭐ 3,185 | 🐛 224 | 🌐 Java | 📅 2026-09-12 - Used to monitor the consumer status of Kafka clusters, as well as offsets, metadata and other information.
-* [cruise-control](https://github.com/linkedin/cruise-control) ⭐ 3,045 | 🐛 278 | 🌐 Java | 📅 2026-10-04 - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster.
-* [spring-kafka](https://github.com/spring-projects/spring-kafka) ⭐ 2,512 | 🐛 42 | 🌐 Java | 📅 2026-10-05
+* [cruise-control](https://github.com/linkedin/cruise-control) ⭐ 3,046 | 🐛 279 | 🌐 Java | 📅 2026-10-04 - Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster.
+* [spring-kafka](https://github.com/spring-projects/spring-kafka) ⭐ 2,512 | 🐛 39 | 🌐 Java | 📅 2026-10-06
 * [kafka-monitor](https://github.com/linkedin/kafka-monitor) ⭐ 2,065 | 🐛 33 | 🌐 Java | 📅 2025-03-09
 * [secor](https://github.com/pinterest/secor) ⭐ 1,858 | 🐛 284 | 🌐 Java | 📅 2026-10-04 - Secor is a service implementing Kafka log persistence.
 * [reactive-kafka](https://github.com/akka/reactive-kafka) ⭐ 1,419 | 🐛 108 | 🌐 Scala | 📅 2026-10-01 - Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.
@@ -99,7 +99,7 @@
 
 ### Kafka Connect
 
-* [Maxwell](https://github.com/zendesk/maxwell) ⭐ 4,261 | 🐛 266 | 🌐 Java | 📅 2026-10-02
+* [Maxwell](https://github.com/zendesk/maxwell) ⭐ 4,262 | 🐛 266 | 🌐 Java | 📅 2026-10-02
 * [kafka-connect-file-pulse](https://github.com/streamthoughts/kafka-connect-file-pulse) ⭐ 349 | 🐛 49 | 🌐 Java | 📅 2026-06-26 - A polyvalent, scalable and reliable, Kafka Connector that makes it easy to parse, transform and stream any file, in any format, into Apache Kafka.
 * [snowflake-kafka-connector](https://github.com/snowflakedb/snowflake-kafka-connector) ⭐ 177 | 🐛 57 | 🌐 Java | 📅 2026-10-05
 * [kafka-connect-transform-common](https://github.com/jcustenborder/kafka-connect-transform-common) ⭐ 175 | 🐛 27 | 🌐 Java | 📅 2026-09-22 - Common Transforms for Kafka Connect.
@@ -117,16 +117,16 @@
 
 ### REST Proxy
 
-* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,716 | 🐛 245 | 🌐 Java | 📅 2026-10-05 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
+* [Zilla](https://github.com/aklivity/zilla) ⭐ 1,711 | 🐛 247 | 🌐 Java | 📅 2026-10-06 - An API gateway built for event-driven architectures and streaming that supports standard protocols such as HTTP, SSE, gRPC, MQTT and the native Kafka protocol.
 * [strimzi-http-bridge](https://github.com/strimzi/strimzi-kafka-bridge) ⭐ 343 | 🐛 14 | 🌐 Java | 📅 2026-10-01 - Strimzi Kafka Bridge (AMQP & HTTP).
-* [kafka-rest](https://github.com/confluentinc/kafka-rest) ⭐ 165 | 🐛 276 | 🌐 Java | 📅 2026-10-05 - Confluent REST Proxy.
+* [kafka-rest](https://github.com/confluentinc/kafka-rest) ⭐ 165 | 🐛 276 | 🌐 Java | 📅 2026-10-06 - Confluent REST Proxy.
 
 ### KSQL
 
 ### Schema Registry
 
-* [schema-registry](https://github.com/confluentinc/schema-registry) ⭐ 2,467 | 🐛 393 | 🌐 Java | 📅 2026-10-05 - Confluent Schema registry for Kafka.
-* [apicurio-registry](https://github.com/Apicurio/apicurio-registry) ⭐ 941 | 🐛 742 | 🌐 Java | 📅 2026-10-05 - Apicurio API/schema registry (includes UI).
+* [schema-registry](https://github.com/confluentinc/schema-registry) ⭐ 2,467 | 🐛 397 | 🌐 Java | 📅 2026-10-06 - Confluent Schema registry for Kafka.
+* [apicurio-registry](https://github.com/Apicurio/apicurio-registry) ⭐ 941 | 🐛 744 | 🌐 Java | 📅 2026-10-06 - Apicurio API/schema registry (includes UI).
 * [ksql-jdbc-driver](https://github.com/mmolimar/ksql-jdbc-driver) ⭐ 87 | 🐛 14 | 🌐 Scala | 📅 2022-04-01
 * [ballerina-schema-registry](https://github.com/ballerina-platform/module-ballerinax-confluent.cregistry) ⭐ 2 | 🐛 4 | 🌐 Ballerina | 📅 2026-09-23 - Ballerina Confluent Schema Registry
 
@@ -135,14 +135,14 @@
 * [infoslack/awesome-kafka](https://github.com/infoslack/awesome-kafka) ⭐ 593 | 🐛 3 | 📅 2026-05-05
 * [dharmeshkakadia/awesome-kafka](https://github.com/dharmeshkakadia/awesome-kafka) ⭐ 209 | 🐛 2 | 📅 2026-09-28
 * [ApacheKafka](https://github.com/jsroyal/ApacheKafka) ⭐ 36 | 🐛 1 | 📅 2023-12-07
-* [ballerina-avro-kafka-serializer](https://github.com/ballerina-platform/module-ballerinax-confluent.cavroserdes) ⭐ 2 | 🐛 1 | 🌐 Ballerina | 📅 2026-09-23 - Ballerina Confluent Avro Serializer/Deserializer
+* [ballerina-avro-kafka-serializer](https://github.com/ballerina-platform/module-ballerinax-confluent.cavroserdes) ⭐ 2 | 🐛 0 | 🌐 Ballerina | 📅 2026-10-06 - Ballerina Confluent Avro Serializer/Deserializer
 * [awesome-kafka-playground](https://github.com/anascotti/awesome-kafka-playground) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2018-05-22
 
 ### Kafkaesque
 
-* [Pulsar](https://github.com/apache/incubator-pulsar) ⭐ 15,342 | 🐛 1,774 | 🌐 Java | 📅 2026-10-05
+* [Pulsar](https://github.com/apache/incubator-pulsar) ⭐ 15,343 | 🐛 1,772 | 🌐 Java | 📅 2026-10-05
 * [faust](https://github.com/robinhood/faust) ⭐ 6,823 | 🐛 280 | 🌐 Python | 📅 2024-07-27 - Python Stream Processing.
-* [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) ⭐ 3,816 | 🐛 50 | 🌐 Java | 📅 2026-09-29
+* [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) ⭐ 3,816 | 🐛 48 | 🌐 Java | 📅 2026-10-06
 * [Heron](https://github.com/apache/incubator-heron) ⚠️ Archived
 * [CorfuDB](https://github.com/CorfuDB/CorfuDB) ⭐ 668 | 🐛 204 | 🌐 Java | 📅 2026-10-05
 * [Meteor](https://github.com/obsidiandynamics/meteor) ⭐ 24 | 🐛 0 | 🌐 Java | 📅 2022-07-25 - Lightweight, broker-less alternative to Kafka for message streaming.
@@ -178,4 +178,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
