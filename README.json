@@ -21,7 +21,7 @@
                 "open_issues": 63,
                 "owner": "IBM",
                 "repo": "sarama",
-                "stars": 12523,
+                "stars": 12521,
                 "topics": [
                   "go",
                   "kafka",
@@ -46,7 +46,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11918,
+                "stars": 11917,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -68,8 +68,8 @@
                 "id": 58194180,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T04:01:27Z",
-                "open_issues": 166,
+                "last_commit": "2026-10-24T13:37:00Z",
+                "open_issues": 167,
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-operator",
                 "stars": 5959,
@@ -127,7 +127,7 @@
                 "open_issues": 64,
                 "owner": "travisjeffery",
                 "repo": "jocko",
-                "stars": 5005,
+                "stars": 5004,
                 "topics": [
                   "distributed-systems",
                   "go",
@@ -176,7 +176,7 @@
                 "open_issues": 272,
                 "owner": "tchiotludo",
                 "repo": "akhq",
-                "stars": 3865,
+                "stars": 3864,
                 "topics": [
                   "gui",
                   "java",
@@ -229,10 +229,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T14:17:39Z",
-                "open_issues": 286,
+                "open_issues": 287,
                 "owner": "cruise-control-for-kafka",
                 "repo": "cruise-control",
-                "stars": 3051,
+                "stars": 3050,
                 "topics": [
                   "cluster-management",
                   "kafka",
@@ -253,7 +253,7 @@
                 "id": 52980493,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T19:55:26Z",
+                "last_commit": "2026-10-24T10:49:41Z",
                 "open_issues": 38,
                 "owner": "spring-projects",
                 "repo": "spring-kafka",
@@ -374,7 +374,7 @@
                 "open_issues": 11,
                 "owner": "fgeller",
                 "repo": "kt",
-                "stars": 954,
+                "stars": 953,
                 "topics": [
                   "apache-kafka",
                   "cli",
@@ -419,7 +419,7 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-22T10:32:39Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "allegro",
                 "repo": "hermes",
                 "stars": 872,
@@ -563,7 +563,7 @@
                 "open_issues": 24,
                 "owner": "linkedin",
                 "repo": "kafka-tools",
-                "stars": 599,
+                "stars": 598,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -609,7 +609,7 @@
                 "open_issues": 40,
                 "owner": "lensesio",
                 "repo": "schema-registry-ui",
-                "stars": 426,
+                "stars": 425,
                 "topics": [
                   "avro",
                   "kafka",
@@ -744,11 +744,11 @@
                 "id": 157827731,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T01:04:51Z",
+                "last_commit": "2026-10-24T05:10:37Z",
                 "open_issues": 18,
                 "owner": "rayokota",
                 "repo": "kcache",
-                "stars": 261,
+                "stars": 262,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -842,7 +842,7 @@
                 "open_issues": 30,
                 "owner": "SystemCraftsman",
                 "repo": "strimzi-kafka-cli",
-                "stars": 92,
+                "stars": 91,
                 "topics": [
                   "apache-kafka",
                   "cli",
@@ -1006,7 +1006,7 @@
                 "open_issues": 42,
                 "owner": "obsidiandynamics",
                 "repo": "kafdrop",
-                "stars": 6152,
+                "stars": 6151,
                 "topics": [
                   "consumer-group",
                   "consumer-producer",
@@ -1038,11 +1038,11 @@
                 "id": 211644266,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-23T15:57:12Z",
-                "open_issues": 156,
+                "last_commit": "2026-10-24T11:36:50Z",
+                "open_issues": 155,
                 "owner": "redpanda-data",
                 "repo": "console",
-                "stars": 4343,
+                "stars": 4342,
                 "topics": [
                   "apache-kafka",
                   "dataops",
@@ -1073,7 +1073,7 @@
                 "open_issues": 14,
                 "owner": "lensesio",
                 "repo": "kafka-topics-ui",
-                "stars": 875,
+                "stars": 874,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -1154,7 +1154,7 @@
                 "open_issues": 26,
                 "owner": "linkedin",
                 "repo": "cruise-control-ui",
-                "stars": 374,
+                "stars": 373,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -1274,7 +1274,7 @@
                 "open_issues": 40,
                 "owner": "lensesio",
                 "repo": "schema-registry-ui",
-                "stars": 426,
+                "stars": 425,
                 "topics": [
                   "avro",
                   "kafka",
@@ -1431,7 +1431,7 @@
                 "open_issues": 267,
                 "owner": "zendesk",
                 "repo": "maxwell",
-                "stars": 4265,
+                "stars": 4264,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -1483,11 +1483,11 @@
                 "id": 187924780,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T18:13:35Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-24T03:02:45Z",
+                "open_issues": 64,
                 "owner": "snowflakedb",
                 "repo": "snowflake-kafka-connector",
-                "stars": 177,
+                "stars": 176,
                 "topics": [
                   "java",
                   "kafka",
@@ -1760,11 +1760,11 @@
                 "id": 436039945,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T07:43:38Z",
-                "open_issues": 246,
+                "last_commit": "2026-10-24T02:04:41Z",
+                "open_issues": 254,
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1709,
+                "stars": 1687,
                 "topics": [
                   "api-gateway",
                   "asyncapi",
@@ -1828,7 +1828,7 @@
                 "id": 26873147,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T15:41:36Z",
+                "last_commit": "2026-10-24T14:30:14Z",
                 "open_issues": 276,
                 "owner": "confluentinc",
                 "repo": "kafka-rest",
@@ -1862,11 +1862,11 @@
                 "id": 27790789,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T16:52:10Z",
-                "open_issues": 380,
+                "last_commit": "2026-10-24T13:46:41Z",
+                "open_issues": 383,
                 "owner": "confluentinc",
                 "repo": "schema-registry",
-                "stars": 2471,
+                "stars": 2470,
                 "topics": [
                   "avro",
                   "avro-schema",
@@ -1896,11 +1896,11 @@
                 "id": 197192301,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:20:16Z",
-                "open_issues": 800,
+                "last_commit": "2026-10-24T00:35:48Z",
+                "open_issues": 801,
                 "owner": "Apicurio",
                 "repo": "apicurio-registry",
-                "stars": 946,
+                "stars": 945,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -2112,8 +2112,8 @@
                 "id": 62117812,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T16:18:04Z",
-                "open_issues": 1362,
+                "last_commit": "2026-10-24T15:31:01Z",
+                "open_issues": 1011,
                 "owner": "apache",
                 "repo": "pulsar",
                 "stars": 15351,
@@ -2285,7 +2285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T16:55:30.035Z",
+    "last_updated": "2026-10-24T15:48:12.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Apache Kafka",
