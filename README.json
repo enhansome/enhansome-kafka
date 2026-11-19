@@ -17,8 +17,8 @@
                 "id": 11206255,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-18T19:46:14Z",
-                "open_issues": 33,
+                "last_commit": "2026-11-19T10:46:19Z",
+                "open_issues": 30,
                 "owner": "IBM",
                 "repo": "sarama",
                 "stars": 12526,
@@ -46,7 +46,7 @@
                 "open_issues": 521,
                 "owner": "yahoo",
                 "repo": "CMAK",
-                "stars": 11914,
+                "stars": 11913,
                 "topics": [
                   "big-data",
                   "cluster-management",
@@ -68,11 +68,11 @@
                 "id": 58194180,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T15:31:39Z",
-                "open_issues": 171,
+                "last_commit": "2026-11-19T14:54:38Z",
+                "open_issues": 172,
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-operator",
-                "stars": 5981,
+                "stars": 5980,
                 "topics": [
                   "data-stream",
                   "data-streaming",
@@ -106,7 +106,7 @@
                 "open_issues": 160,
                 "owner": "edenhill",
                 "repo": "kcat",
-                "stars": 5793,
+                "stars": 5792,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -155,7 +155,7 @@
                 "open_issues": 253,
                 "owner": "linkedin",
                 "repo": "Burrow",
-                "stars": 3970,
+                "stars": 3969,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -176,7 +176,7 @@
                 "open_issues": 279,
                 "owner": "tchiotludo",
                 "repo": "akhq",
-                "stars": 3876,
+                "stars": 3877,
                 "topics": [
                   "gui",
                   "java",
@@ -205,7 +205,7 @@
                 "open_issues": 224,
                 "owner": "smartloli",
                 "repo": "EFAK",
-                "stars": 3179,
+                "stars": 3178,
                 "topics": [
                   "ai",
                   "consumer-group",
@@ -254,7 +254,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T22:02:44Z",
-                "open_issues": 38,
+                "open_issues": 41,
                 "owner": "spring-projects",
                 "repo": "spring-kafka",
                 "stars": 2520,
@@ -278,7 +278,7 @@
                 "open_issues": 33,
                 "owner": "linkedin",
                 "repo": "kafka-monitor",
-                "stars": 2065,
+                "stars": 2064,
                 "topics": [
                   "broker",
                   "cluster",
@@ -320,7 +320,7 @@
                 "open_issues": 284,
                 "owner": "pinterest",
                 "repo": "secor",
-                "stars": 1858,
+                "stars": 1857,
                 "topics": [
                   "kafka"
                 ]
@@ -343,7 +343,7 @@
                 "open_issues": 114,
                 "owner": "akka",
                 "repo": "alpakka-kafka",
-                "stars": 1421,
+                "stars": 1420,
                 "topics": [
                   "akka",
                   "akka-streams",
@@ -374,7 +374,7 @@
                 "open_issues": 11,
                 "owner": "fgeller",
                 "repo": "kt",
-                "stars": 953,
+                "stars": 952,
                 "topics": [
                   "apache-kafka",
                   "cli",
@@ -422,7 +422,7 @@
                 "open_issues": 11,
                 "owner": "allegro",
                 "repo": "hermes",
-                "stars": 873,
+                "stars": 872,
                 "topics": [
                   "hacktoberfest",
                   "hermes",
@@ -519,7 +519,7 @@
                 "open_issues": 3,
                 "owner": "dibbhatt",
                 "repo": "kafka-spark-consumer",
-                "stars": 632,
+                "stars": 631,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -722,7 +722,7 @@
                 "open_issues": 6,
                 "owner": "fhussonnois",
                 "repo": "kafkastreams-cep",
-                "stars": 315,
+                "stars": 314,
                 "topics": [
                   "cep",
                   "complex-event-processing",
@@ -1038,8 +1038,8 @@
                 "id": 211644266,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-11-18T16:23:23Z",
-                "open_issues": 159,
+                "last_commit": "2026-11-19T18:56:06Z",
+                "open_issues": 160,
                 "owner": "redpanda-data",
                 "repo": "console",
                 "stars": 4353,
@@ -1428,10 +1428,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-17T20:45:44Z",
-                "open_issues": 267,
+                "open_issues": 268,
                 "owner": "zendesk",
                 "repo": "maxwell",
-                "stars": 4269,
+                "stars": 4268,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:12:38.160Z"
@@ -1483,8 +1483,8 @@
                 "id": 187924780,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T14:03:58Z",
-                "open_issues": 65,
+                "last_commit": "2026-11-19T19:34:55Z",
+                "open_issues": 66,
                 "owner": "snowflakedb",
                 "repo": "snowflake-kafka-connector",
                 "stars": 176,
@@ -1760,11 +1760,11 @@
                 "id": 436039945,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T20:13:19Z",
-                "open_issues": 412,
+                "last_commit": "2026-11-19T20:17:24Z",
+                "open_issues": 439,
                 "owner": "aklivity",
                 "repo": "zilla",
-                "stars": 1691,
+                "stars": 1685,
                 "topics": [
                   "api-gateway",
                   "asyncapi",
@@ -1797,8 +1797,8 @@
                 "id": 54389337,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T11:11:30Z",
-                "open_issues": 15,
+                "last_commit": "2026-11-19T16:19:51Z",
+                "open_issues": 13,
                 "owner": "strimzi",
                 "repo": "strimzi-kafka-bridge",
                 "stars": 346,
@@ -1828,7 +1828,7 @@
                 "id": 26873147,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T20:05:48Z",
+                "last_commit": "2026-11-19T19:54:55Z",
                 "open_issues": 273,
                 "owner": "confluentinc",
                 "repo": "kafka-rest",
@@ -1862,11 +1862,11 @@
                 "id": 27790789,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T20:19:04Z",
+                "last_commit": "2026-11-19T20:15:13Z",
                 "open_issues": 376,
                 "owner": "confluentinc",
                 "repo": "schema-registry",
-                "stars": 2474,
+                "stars": 2473,
                 "topics": [
                   "avro",
                   "avro-schema",
@@ -1896,8 +1896,8 @@
                 "id": 197192301,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T20:10:37Z",
-                "open_issues": 847,
+                "last_commit": "2026-11-19T20:26:02Z",
+                "open_issues": 842,
                 "owner": "Apicurio",
                 "repo": "apicurio-registry",
                 "stars": 959,
@@ -1950,7 +1950,7 @@
                 "open_issues": 3,
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-confluent.cregistry",
-                "stars": 2,
+                "stars": 5,
                 "topics": [
                   "avro",
                   "ballerina",
@@ -2065,7 +2065,7 @@
                 "open_issues": 0,
                 "owner": "ballerina-platform",
                 "repo": "module-ballerinax-confluent.cavroserdes",
-                "stars": 2,
+                "stars": 5,
                 "topics": [
                   "ballerina"
                 ]
@@ -2112,11 +2112,11 @@
                 "id": 62117812,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T18:36:29Z",
-                "open_issues": 507,
+                "last_commit": "2026-11-19T15:56:06Z",
+                "open_issues": 508,
                 "owner": "apache",
                 "repo": "pulsar",
-                "stars": 15365,
+                "stars": 15367,
                 "topics": [
                   "event-streaming",
                   "messaging",
@@ -2144,7 +2144,7 @@
                 "open_issues": 279,
                 "owner": "robinhood",
                 "repo": "faust",
-                "stars": 6823,
+                "stars": 6822,
                 "topics": [
                   "asyncio",
                   "distributed-systems",
@@ -2168,11 +2168,11 @@
                 "id": 10437688,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T14:30:59Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-19T17:57:43Z",
+                "open_issues": 71,
                 "owner": "OpenHFT",
                 "repo": "Chronicle-Queue",
-                "stars": 3851,
+                "stars": 3850,
                 "topics": [
                   "chronicle",
                   "java",
@@ -2200,7 +2200,7 @@
                 "open_issues": 409,
                 "owner": "apache",
                 "repo": "incubator-heron",
-                "stars": 3622,
+                "stars": 3621,
                 "topics": [
                   "heron",
                   "messaging",
@@ -2285,7 +2285,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:22:01.631Z",
+    "last_updated": "2026-11-19T20:26:04.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to Apache Kafka",
@@ -2297,7 +2297,7 @@
       "open_issues": 15,
       "owner": "semantalytics",
       "repo": "awesome-kafka",
-      "stars": 292,
+      "stars": 293,
       "topics": [
         "awesome",
         "awesome-list",
